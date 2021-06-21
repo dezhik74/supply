@@ -1,0 +1,9 @@
+# PyCharm
+.idea/
+venv/
+*.pyc
+__pycache__/
+.vscode/
+/static/
+/media/
+/logs/
